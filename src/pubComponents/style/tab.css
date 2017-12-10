@@ -1,6 +1,5 @@
 .footer {
   box-sizing: border-box;
-  border: 2px solid red;
   position: fixed;
   display: flex;
   left: 0;
