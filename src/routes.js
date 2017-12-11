@@ -2,6 +2,10 @@ import React from 'react';
 import {
     HashRouter as Router,
     Route,
+<<<<<<< HEAD
+=======
+    Link,
+>>>>>>> cc4d558a4cb16271944303f2121a9816bc547377
     Switch
 } from 'react-router-dom';
 import Home from "./components/Home/index";

@@ -23,7 +23,10 @@ export default class Banner extends React.Component {
                             }}
                         />
                         <TweenOne className="banner-user-title" animation={{y: 30, opacity: 0, type: 'from'}}>
+<<<<<<< HEAD
 
+=======
+>>>>>>> cc4d558a4cb16271944303f2121a9816bc547377
                             <img src={b}/>
                         </TweenOne>
                         <TweenOne className="banner-user-text"
