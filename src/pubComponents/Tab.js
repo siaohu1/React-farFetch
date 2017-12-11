@@ -10,11 +10,11 @@ export default class Tab extends Component {
                     <span>首页</span>
                 </li>
                 <li>
-                    <i className="iconfont icon-goubianyipinpaitemai"></i>
+                    <i className="iconfont icon-pinpai"></i>
                     <span>品牌</span>
                 </li>
                 <li>
-                    <i className="iconfont icon-xing"></i>
+                    <i className="iconfont icon-gray-star"></i>
                     <span>愿望单</span>
                 </li>
                 <li>

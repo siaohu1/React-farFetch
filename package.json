@@ -14,6 +14,7 @@
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
+    "babel-polyfill": "^6.26.0",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-0": "^6.24.1",
@@ -28,10 +29,15 @@
     "webpack-dev-server": "^2.9.7"
   },
   "dependencies": {
+    "axios": "^0.17.1",
+    "body-parser": "^1.18.2",
     "bootstrap": "^3.3.7",
+    "rc-banner-anim": "^1.0.0",
+    "rc-tween-one": "^1.5.8",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-router-dom": "^4.2.2",
+    "react-swiper": "^0.1.5",
     "react-transition-group": "^2.2.1"
   }
 }

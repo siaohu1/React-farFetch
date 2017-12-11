@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
-import ReactDom, {render} from 'react-dom'
-import App from "./components/App";
+import {render} from 'react-dom'
 import './pubComponents/style/reset.css'
+import routes from './routes'
+import './pubComponents/style/index.css'
 
 
 render(
-    <App/>,
+    routes,
     document.querySelector('#root')
 );
