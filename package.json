@@ -29,9 +29,12 @@
   },
   "dependencies": {
     "bootstrap": "^3.3.7",
+    "rc-banner-anim": "^1.0.0",
+    "rc-tween-one": "^1.5.8",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-router-dom": "^4.2.2",
+    "react-swiper": "^0.1.5",
     "react-transition-group": "^2.2.1"
   }
 }
